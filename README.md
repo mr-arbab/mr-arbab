@@ -1,131 +1,178 @@
 # Mehrad Arbab
 
-**Founder of LocalDesk | Builder of AI-Powered Software Products**
+**Founder of LocalDesk | Building AI systems that help humans work, create, and live better.**
 
 ---
 
 ## About Me
 
-I started learning and working in the field of computer science at the age of 15.
+I am the founder of LocalDesk, building the next generation of personal AI systems.
 
-Since then, my focus has been on understanding how software, systems, algorithms, and digital products are built from the ground up.
+My mission is to create technology that makes artificial intelligence simple, accessible, and valuable for everyone.
 
-My learning journey has included computer science fundamentals, programming, web development, AI tools, product thinking, and startup execution. I have also completed courses such as CS50, which helped me build a stronger foundation in problem-solving, algorithms, programming logic, and software engineering.
+I believe AI should not make humans adapt to machines.
 
-Today, my main focus is on developing **LocalDesk**.
+AI should adapt to humans.
 
----
+The future of technology is not about replacing human creativity, ideas, or ambition.
 
-## About LocalDesk
+It is about building intelligent systems that empower people to achieve more.
 
-**LocalDesk** is a Memory OS for solo founders and developers.
-
-AI tools are extremely powerful, but over time they usually lose part of the information and context of a project. LocalDesk is designed to help founders and developers organize their projects, gain greater clarity, and work more effectively with AI.
-
-The goal is simple:
-
-**AI tools forget the work; LocalDesk remembers the project.**
-
-As the founder, I am responsible for product development, technical decisions, user experience, and the overall execution of the project.
+Today, my focus is building LocalDesk and exploring the future of human-AI collaboration.
 
 ---
 
-## What I Build
+# About LocalDesk
 
-My main areas of focus include:
+## The Future of Personal AI
 
-* SaaS products
-* Web applications
-* AI-powered tools
-* Developer tools
-* Startup operating systems
-* Business automation systems
-* Full-stack applications
-* AI workflow products
-* Product development from idea to launch
+LocalDesk is a personal AI workspace designed to make your life easier, more productive, and more creative.
 
----
+It is not another AI tool where you simply write a prompt and receive an answer.
 
-## Technical Interests
+LocalDesk is built around a different idea:
 
-Areas that I actively study and work on:
+**AI should understand what you want to achieve and help you move from ideas to real outcomes.**
 
-* Computer Science
-* Algorithms and Data Structures
-* Software Engineering
-* Full-Stack Development
-* Product Development
-* Artificial Intelligence
-* Databases
-* System Design
-* Automation
-* Developer Experience
-* Startup Technology
+Behind the scenes, LocalDesk combines:
+
+- Artificial Intelligence
+- Tools
+- Memory
+- Context
+- Execution
+
+But this complexity belongs to the technology builders, not the users.
+
+People should not need to understand AI models, integrations, workflows, or complicated systems.
+
+Our responsibility as creators is to build technology so natural and simple that people can focus on what matters:
+
+Their ideas.
+Their goals.
+Their lives.
 
 ---
 
-## Technologies
+# Our Vision
 
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* Node.js
-* PostgreSQL
-* Python
-* Git and GitHub
+Technology should make human life better.
 
----
+LocalDesk is not built to remove humans from the process.
 
-## Current Focus
+It is built to amplify human potential.
 
-Currently, my primary focus is on developing **LocalDesk** and improving my skills in software development, product building, and startup execution.
+Whether someone wants to:
 
----
+- Build a product
+- Create something new
+- Learn faster
+- Organize their work
+- Improve daily tasks
+- Explore new opportunities
 
-## Repository Purpose
+LocalDesk is designed to become an intelligent partner that helps them move forward.
 
-This repository contains projects, experiments, educational resources, and development activities related to my journey as a computer science learner, software builder, and founder of LocalDesk.
+The future is not humans versus AI.
 
-In this repository, you may find:
-
-* Product prototypes
-* Startup experiments
-* Full-stack applications
-* AI integrations
-* Technical documentation
-* Educational projects
-* Development notes
-* Activities related to personal growth and development
+The future is humans empowered by intelligent systems.
 
 ---
 
-## Product Building Philosophy
+# What I Build
 
-I believe technology should solve real problems.
+My focus is building products at the intersection of:
 
-My approach includes:
+- Artificial Intelligence
+- Human-computer interaction
+- Agentic systems
+- Software engineering
+- Product innovation
+- Automation
+- The future of work
 
-* Continuous learning
-* Building practical products
-* Focusing on execution
-* Improving through feedback
-* Prioritizing simplicity
-* Creating long-term value
-* Building systems, not just features
+I believe the most valuable technology is not the one with the most features.
 
----
-
-## Long-Term Goal
-
-My long-term goal is to build impactful technology products and turn LocalDesk into a successful software company that helps people work more effectively and intelligently through technology and artificial intelligence.
+It is the one that creates the biggest positive impact on people's lives.
 
 ---
 
-## Connect With Me
+# LocalDesk Philosophy
+
+AI should feel natural.
+
+People should not have to learn how technology works.
+
+Technology should learn how people work.
+
+The goal of LocalDesk is to hide complexity and provide a simple experience where anyone can communicate their goals and receive intelligent assistance.
+
+---
+
+# Technical Interests
+
+Areas I actively explore:
+
+- Artificial Intelligence
+- AI Agents
+- Agentic Systems
+- Computer Science
+- Software Engineering
+- System Design
+- Cloud Infrastructure
+- Human-AI Interaction
+- Product Development
+
+---
+
+# Technologies
+
+Working with:
+
+- AI Models & APIs
+- Full-stack Development
+- Modern Web Technologies
+- Cloud Infrastructure
+- Databases
+- Software Architecture
+- Developer Tools
+
+---
+
+# Building LocalDesk
+
+LocalDesk is being built with a focus on:
+
+- Powerful AI experiences
+- Reliable systems
+- Human-centered design
+- Scalable infrastructure
+- Simple user experiences
+
+The goal is not only to build software.
+
+The goal is to build a new way for humans to interact with technology.
+
+---
+
+# Long-Term Vision
+
+My long-term goal is to build technology companies that create meaningful impact and help people enter a more intelligent, productive, and connected future.
+
+I believe the next generation of companies will not only build better software.
+
+They will build better relationships between humans and technology.
+
+---
+
+# Connect With Me
 
 **Name:** Mehrad Arbab
-**Startup:** LocalDesk
-**Email:** [mehrad.connect@gmail.com](mailto:mehrad.connect0@gmail.com)
 
----
+**Startup:** LocalDesk
+
+**Website:** https://localdesk.dev
+
+**LinkedIn:** https://linkedin.com/in/mehrad-arbab-0b50a9298
+
+**X:** https://x.com/MehradArbab_
