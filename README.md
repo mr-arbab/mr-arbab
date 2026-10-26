@@ -1,178 +1,37 @@
-# Mehrad Arbab
+<a href="https://github.com/LocalDesk-dev"><img src="https://avatars.githubusercontent.com/u/295301802?s=96&v=4" width="48" height="48" align="right" alt="LocalDesk"></a>
 
-**Founder of LocalDesk | Building AI systems that help humans work, create, and live better.**
+## Mehrad Arbab
 
----
-
-## About Me
-
-I am the founder of LocalDesk, building the next generation of personal AI systems.
-
-My mission is to create technology that makes artificial intelligence simple, accessible, and valuable for everyone.
-
-I believe AI should not make humans adapt to machines.
-
-AI should adapt to humans.
-
-The future of technology is not about replacing human creativity, ideas, or ambition.
-
-It is about building intelligent systems that empower people to achieve more.
-
-Today, my focus is building LocalDesk and exploring the future of human-AI collaboration.
+Founder & CEO of **[LocalDesk](https://localdesk.dev)**. I build agent systems that take software work from an instruction to a result you can verify, not a diff you have to trust.
 
 ---
 
-# About LocalDesk
+#### Building · LocalDesk
 
-## The Future of Personal AI
+A local-first desktop workspace for handing real work to AI. **Baymax** understands the outcome, **Mission** plans it with approvals and checks, and **Orbit** runs it in your own environment.
 
-LocalDesk is a personal AI workspace designed to make your life easier, more productive, and more creative.
+`Early Access 0.1.0` `macOS` `Apple Silicon` → [Release](https://github.com/LocalDesk-dev/localdesk-public/releases/tag/v0.1.0) · [How it works](https://localdesk.dev/how-it-works)
 
-It is not another AI tool where you simply write a prompt and receive an answer.
+#### Focus
 
-LocalDesk is built around a different idea:
+- **Agentic software engineering:** execution loops that end in a checked result
+- **Local-first infrastructure:** runtimes that keep work and credentials on your machine
+- **Safe autonomy:** what an agent may do alone, and what needs a human
+- **Tool orchestration:** models and tools composed through open protocols
 
-**AI should understand what you want to achieve and help you move from ideas to real outcomes.**
+#### In private development
 
-Behind the scenes, LocalDesk combines:
+Engineering in progress, not shipped features.
 
-- Artificial Intelligence
-- Tools
-- Memory
-- Context
-- Execution
+- Rust + Tauri runtime that runs Missions inside the workspace you open
+- Native MCP client with OAuth (PKCE)
+- Sandboxed agent commands and native macOS re-authentication
+- Verification that decides whether a Mission actually succeeded
 
-But this complexity belongs to the technology builders, not the users.
+#### Stack
 
-People should not need to understand AI models, integrations, workflows, or complicated systems.
-
-Our responsibility as creators is to build technology so natural and simple that people can focus on what matters:
-
-Their ideas.
-Their goals.
-Their lives.
+`Rust` `TypeScript` `React` `Tauri 2` `Node.js` `PostgreSQL` `MCP`
 
 ---
 
-# Our Vision
-
-Technology should make human life better.
-
-LocalDesk is not built to remove humans from the process.
-
-It is built to amplify human potential.
-
-Whether someone wants to:
-
-- Build a product
-- Create something new
-- Learn faster
-- Organize their work
-- Improve daily tasks
-- Explore new opportunities
-
-LocalDesk is designed to become an intelligent partner that helps them move forward.
-
-The future is not humans versus AI.
-
-The future is humans empowered by intelligent systems.
-
----
-
-# What I Build
-
-My focus is building products at the intersection of:
-
-- Artificial Intelligence
-- Human-computer interaction
-- Agentic systems
-- Software engineering
-- Product innovation
-- Automation
-- The future of work
-
-I believe the most valuable technology is not the one with the most features.
-
-It is the one that creates the biggest positive impact on people's lives.
-
----
-
-# LocalDesk Philosophy
-
-AI should feel natural.
-
-People should not have to learn how technology works.
-
-Technology should learn how people work.
-
-The goal of LocalDesk is to hide complexity and provide a simple experience where anyone can communicate their goals and receive intelligent assistance.
-
----
-
-# Technical Interests
-
-Areas I actively explore:
-
-- Artificial Intelligence
-- AI Agents
-- Agentic Systems
-- Computer Science
-- Software Engineering
-- System Design
-- Cloud Infrastructure
-- Human-AI Interaction
-- Product Development
-
----
-
-# Technologies
-
-Working with:
-
-- AI Models & APIs
-- Full-stack Development
-- Modern Web Technologies
-- Cloud Infrastructure
-- Databases
-- Software Architecture
-- Developer Tools
-
----
-
-# Building LocalDesk
-
-LocalDesk is being built with a focus on:
-
-- Powerful AI experiences
-- Reliable systems
-- Human-centered design
-- Scalable infrastructure
-- Simple user experiences
-
-The goal is not only to build software.
-
-The goal is to build a new way for humans to interact with technology.
-
----
-
-# Long-Term Vision
-
-My long-term goal is to build technology companies that create meaningful impact and help people enter a more intelligent, productive, and connected future.
-
-I believe the next generation of companies will not only build better software.
-
-They will build better relationships between humans and technology.
-
----
-
-# Connect With Me
-
-**Name:** Mehrad Arbab
-
-**Startup:** LocalDesk
-
-**Website:** https://localdesk.dev
-
-**LinkedIn:** https://linkedin.com/in/mehrad-arbab-0b50a9298
-
-**X:** https://x.com/MehradArbab_
+[localdesk.dev](https://localdesk.dev) · [@LocalDesk-dev](https://github.com/LocalDesk-dev) · [X](https://x.com/MehradArbab_) · [LinkedIn](https://www.linkedin.com/in/mehrad-arbab-0b50a9298/)
